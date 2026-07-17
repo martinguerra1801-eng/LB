@@ -1,6 +1,0 @@
-{
-  "name": "Little Bridge Challenge 2026",
-  "description": "Formulario interactivo de 50 preguntas sobre Little Bridge con sistema de corrección, planilla de Excel exportable y concurso de velocidad en tiempo real para Ceibal.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
