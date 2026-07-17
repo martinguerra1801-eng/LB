@@ -1,0 +1,8 @@
+// Firebase DESACTIVADO.
+// Este proyecto ya no usa Firebase/Firestore: las respuestas se envían
+// directamente a Google Sheets mediante un Apps Script (ver App.tsx, WEBHOOK_URL).
+// Se mantienen estos objetos vacíos solo para no romper imports existentes.
+
+export const app: any = null;
+export const db: any = null;
+export const auth: any = null;
